@@ -1,0 +1,46 @@
+.nav-top {
+    width: 100%;
+    height: 8px;
+    background-color: #45a29e;
+}
+
+.navbar .nav-item a {
+    color: #66fcf1;
+}
+
+a.navbar-brand {
+    color: #66fcf1;
+}
+
+a.navbar-brand:hover {
+    color: #66fcf1;
+}
+.navbar .nav-item a:hover {
+    color: #66fcf1;
+}
+
+.navbar .active a {
+    color: #66fcf1;
+}
+
+.navbar input:focus {
+    color: #66fcf1;
+    border-color: #45a29e;
+    box-shadow: 0 1px 1px #45a29e, 0 0 8px #45a29e;
+}
+
+.navbar input::placeholder {
+    color: #66fcf1;
+    opacity: 0.8;
+}
+
+.nav-button {
+    border-color: #45a29e;
+    color: #45a29e;
+}
+
+.nav-button:hover {
+    border-color: black;
+    background-color: #45a29e;
+    color: black;
+}
